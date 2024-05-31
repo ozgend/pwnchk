@@ -1,0 +1,27 @@
+{
+  "name": "pwnchk",
+  "description": "a wrapper for pwnedpasswords to check if a password has been pwned",
+  "version": "0.1.0",
+  "main": "bin/index.js",
+  "bin": "bin/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "password",
+    "pwned",
+    "pwnedpasswords",
+    "haveibeenpwned",
+    "security",
+    "check password"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ozgend/pwnchk.git"
+  },
+  "author": "ozgend",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.13"
+  }
+}
