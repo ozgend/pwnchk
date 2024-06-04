@@ -1,7 +1,7 @@
 {
   "name": "pwnchk",
   "description": "a wrapper for pwnedpasswords to check if a password has been pwned",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "bin/index.js",
   "bin": "bin/index.js",
   "scripts": {
