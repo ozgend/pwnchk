@@ -1,6 +1,6 @@
 ## pwnchk
 
-small wrapper for [pwnedpasswords](api.pwnedpasswords.com) to check if a password has been pwned.
+small wrapper for [pwnedpasswords api](https://haveibeenpwned.com/api) to check if a password has been pwned.
 
 available as a cli tool or as a library on [npm/pwnchk](https://www.npmjs.com/package/pwnchk)
 
